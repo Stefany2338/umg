@@ -1,0 +1,15 @@
+C:\Users\Stefany\Desktop\PrograUMG\figuras\bin\Debug\net7.0\figuras.exe
+C:\Users\Stefany\Desktop\PrograUMG\figuras\bin\Debug\net7.0\figuras.deps.json
+C:\Users\Stefany\Desktop\PrograUMG\figuras\bin\Debug\net7.0\figuras.runtimeconfig.json
+C:\Users\Stefany\Desktop\PrograUMG\figuras\bin\Debug\net7.0\figuras.dll
+C:\Users\Stefany\Desktop\PrograUMG\figuras\bin\Debug\net7.0\figuras.pdb
+C:\Users\Stefany\Desktop\PrograUMG\figuras\obj\Debug\net7.0\figuras.csproj.AssemblyReference.cache
+C:\Users\Stefany\Desktop\PrograUMG\figuras\obj\Debug\net7.0\figuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefany\Desktop\PrograUMG\figuras\obj\Debug\net7.0\figuras.AssemblyInfoInputs.cache
+C:\Users\Stefany\Desktop\PrograUMG\figuras\obj\Debug\net7.0\figuras.AssemblyInfo.cs
+C:\Users\Stefany\Desktop\PrograUMG\figuras\obj\Debug\net7.0\figuras.csproj.CoreCompileInputs.cache
+C:\Users\Stefany\Desktop\PrograUMG\figuras\obj\Debug\net7.0\figuras.dll
+C:\Users\Stefany\Desktop\PrograUMG\figuras\obj\Debug\net7.0\refint\figuras.dll
+C:\Users\Stefany\Desktop\PrograUMG\figuras\obj\Debug\net7.0\figuras.pdb
+C:\Users\Stefany\Desktop\PrograUMG\figuras\obj\Debug\net7.0\figuras.genruntimeconfig.cache
+C:\Users\Stefany\Desktop\PrograUMG\figuras\obj\Debug\net7.0\ref\figuras.dll
