@@ -1,0 +1,15 @@
+C:\Users\Stefany\Desktop\PrograUMG\operaciones\bin\Debug\net7.0\operaciones.exe
+C:\Users\Stefany\Desktop\PrograUMG\operaciones\bin\Debug\net7.0\operaciones.deps.json
+C:\Users\Stefany\Desktop\PrograUMG\operaciones\bin\Debug\net7.0\operaciones.runtimeconfig.json
+C:\Users\Stefany\Desktop\PrograUMG\operaciones\bin\Debug\net7.0\operaciones.dll
+C:\Users\Stefany\Desktop\PrograUMG\operaciones\bin\Debug\net7.0\operaciones.pdb
+C:\Users\Stefany\Desktop\PrograUMG\operaciones\obj\Debug\net7.0\operaciones.csproj.AssemblyReference.cache
+C:\Users\Stefany\Desktop\PrograUMG\operaciones\obj\Debug\net7.0\operaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefany\Desktop\PrograUMG\operaciones\obj\Debug\net7.0\operaciones.AssemblyInfoInputs.cache
+C:\Users\Stefany\Desktop\PrograUMG\operaciones\obj\Debug\net7.0\operaciones.AssemblyInfo.cs
+C:\Users\Stefany\Desktop\PrograUMG\operaciones\obj\Debug\net7.0\operaciones.csproj.CoreCompileInputs.cache
+C:\Users\Stefany\Desktop\PrograUMG\operaciones\obj\Debug\net7.0\operaciones.dll
+C:\Users\Stefany\Desktop\PrograUMG\operaciones\obj\Debug\net7.0\refint\operaciones.dll
+C:\Users\Stefany\Desktop\PrograUMG\operaciones\obj\Debug\net7.0\operaciones.pdb
+C:\Users\Stefany\Desktop\PrograUMG\operaciones\obj\Debug\net7.0\operaciones.genruntimeconfig.cache
+C:\Users\Stefany\Desktop\PrograUMG\operaciones\obj\Debug\net7.0\ref\operaciones.dll
